@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory Lab</b>
-  - [Active Directory Lab](https://github.com/garrynwong/ActiveDirectoryLab)
+  - [Password Reset](https://github.com/garrynwong/ActiveDirectoryLab)
 
 <h2> 🤳 Connect with me:</h2>
 
