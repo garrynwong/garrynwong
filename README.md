@@ -9,7 +9,13 @@
   - [Firewall Rules](https://github.com/garrynwong/Networking)
  
 - <b>Ticketing System</b>
-  - [Service Level Agreements (SLAs)]()
+  - [Service Level Agreements (SLAs)](https://github.com/garrynwong/Service-Level-Agreements-SLAs-)
+ 
+- <b>Network File Shares & Permissions</b>
+  - [Security Groups & Least Privilege](https://github.com/garrynwong/Security-Groups-Least-Privilege)
+ 
+- <b>DNS</b>
+  - [Records & Lookup Zones](https://github.com/garrynwong/Records-Lookup-Zones)
 
 <h2> 🤳 Connect with me:</h2>
 
