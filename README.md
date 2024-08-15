@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>[Active Directory](https://github.com/garrynwong/active-directory)</b>
-  - [Password Reset](https://github.com/garrynwong/ActiveDirectoryLab)
+  - [Password Reset](https://github.com/garrynwong/Password-Reset)
  
 - <b>Networking</b>
   - [Firewall Rules](https://github.com/garrynwong/Networking)
