@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Active Directory</b>
+- <b>[Active Directory](https://github.com/garrynwong/active-directory)</b>
   - [Password Reset](https://github.com/garrynwong/ActiveDirectoryLab)
  
 - <b>Networking</b>
