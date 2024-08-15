@@ -5,16 +5,16 @@
 - <b>[Active Directory](https://github.com/garrynwong/active-directory)</b>
   - [Password Reset](https://github.com/garrynwong/Password-Reset)
  
-- <b>Networking</b>
+- <b>[Networking](https://github.com/garrynwong/networking)</b>
   - [Firewall Rules](https://github.com/garrynwong/Networking)
  
-- <b>Ticketing System</b>
+- <b>[Ticketing System](https://github.com/garrynwong/ticketing-system)</b>
   - [Service Level Agreements (SLAs)](https://github.com/garrynwong/Service-Level-Agreements-SLAs-)
  
-- <b>Network File Shares & Permissions</b>
+- <b>[Network File Shares & Permissions](https://github.com/garrynwong/Network-File-Shares-Permissions)</b>
   - [Security Groups & Least Privilege](https://github.com/garrynwong/Security-Groups-Least-Privilege)
  
-- <b>DNS</b>
+- <b>[DNS](https://github.com/garrynwong/DNS)</b>
   - [Records & Lookup Zones](https://github.com/garrynwong/Records-Lookup-Zones)
 
 <h2> 🤳 Connect with me:</h2>
