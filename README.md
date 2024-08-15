@@ -5,6 +5,9 @@
 - <b>[Active Directory](https://github.com/garrynwong/active-directory)</b>
   - [Password Reset](https://github.com/garrynwong/Password-Reset)
   - [User Creation](https://github.com/garrynwong/ad-user-generation)
+  - [Group Membership](https://github.com/garrynwong/group-membership)
+  - [Account Deactivation](https://github.com/garrynwong/account-deactivation)
+  - [OU Management](https://github.com/garrynwong/ou-management)
  
 - <b>[Networking](https://github.com/garrynwong/networking)</b>
   - [Firewall Rules](https://github.com/garrynwong/Firewall-Rules)
