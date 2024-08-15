@@ -4,6 +4,7 @@
 
 - <b>[Active Directory](https://github.com/garrynwong/active-directory)</b>
   - [Password Reset](https://github.com/garrynwong/Password-Reset)
+  - [User Creation](https://github.com/garrynwong/ad-user-generation)
  
 - <b>[Networking](https://github.com/garrynwong/networking)</b>
   - [Firewall Rules](https://github.com/garrynwong/Firewall-Rules)
