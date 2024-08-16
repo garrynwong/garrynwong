@@ -10,7 +10,7 @@
   - [OU Management](https://github.com/garrynwong/ou-management)
  
 - <b>[Networking](https://github.com/garrynwong/networking)</b>
-  - [Firewall Rules](https://github.com/garrynwong/Firewall-Rules)
+  - [Firewall Rules & Inspecting Traffic](https://github.com/garrynwong/Firewall-Rules)
  
 - <b>[Ticketing System](https://github.com/garrynwong/ticketing-system)</b>
   - [Service Level Agreements (SLAs)](https://github.com/garrynwong/Service-Level-Agreements-SLAs-)
