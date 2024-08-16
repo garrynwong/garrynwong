@@ -13,7 +13,7 @@
   - [Firewall Rules & Inspecting Traffic](https://github.com/garrynwong/Firewall-Rules)
  
 - <b>[Ticketing System](https://github.com/garrynwong/ticketing-system)</b>
-  - [Service Level Agreements (SLAs), Ticket Lifecycle & Resolution](https://github.com/garrynwong/ticket-lifecycle-and-resolution)
+  - [Service Level Agreements (SLAs), Ticket Lifecycle & Resolution](https://github.com/garrynwong/service-level-agreements-ticket-lifecycle-and-resolution)
  
 - <b>[Network File Shares & Permissions](https://github.com/garrynwong/Network-File-Shares-Permissions)</b>
   - [Security Groups & Least Privilege](https://github.com/garrynwong/Security-Groups-Least-Privilege)
