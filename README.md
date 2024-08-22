@@ -3,11 +3,13 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>[Active Directory](https://github.com/garrynwong/active-directory)</b>
-  - [Password Reset](https://github.com/garrynwong/Password-Reset)
-  - [User Creation](https://github.com/garrynwong/ad-user-generation)
-  - [Group Membership](https://github.com/garrynwong/group-membership)
-  - [Account Deactivation](https://github.com/garrynwong/account-deactivation)
+
   - [OU Management](https://github.com/garrynwong/ou-management)
+  - [Group Membership](https://github.com/garrynwong/group-membership)
+  - [User Creation](https://github.com/garrynwong/ad-user-generation)
+  - [Password Reset](https://github.com/garrynwong/Password-Reset)
+  - [Account Deactivation](https://github.com/garrynwong/account-deactivation)
+  
  
 - <b>[Networking](https://github.com/garrynwong/networking)</b>
   - [Active Directory Networking Topology](https://github.com/garrynwong/active-directory-network-topology)
