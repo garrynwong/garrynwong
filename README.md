@@ -4,7 +4,7 @@
 
 - <b>[Active Directory](https://github.com/garrynwong/active-directory)</b>
 
-  - [OU Management](https://github.com/garrynwong/ou-management)
+  - [OU Management & Domain Setup](https://github.com/garrynwong/ou-management-and-domain-setup)
   - [Group Membership](https://github.com/garrynwong/group-membership)
   - [User Creation](https://github.com/garrynwong/ad-user-generation)
   - [Password Reset](https://github.com/garrynwong/Password-Reset)
